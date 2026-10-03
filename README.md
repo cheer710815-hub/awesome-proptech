@@ -57,6 +57,7 @@ Building a real estate app requires robust data. Here are the best APIs for retr
 * [Superhighway](https://superhighway.walls.sh/guides/proptech-research-agent) - Live web search API for building Python agents that research PropTech markets, CRE platform landscapes (Yardi/MRI/RealPage/AppFolio), smart building tech, and real estate fintech. Pay-per-call with USDC via x402 — no signup required.
 
 ### 📊 Open Datasets & Research
+* [Resimanor South Korea Stress DSR Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) - Open CC BY 4.0 dataset with reproducible South Korean mortgage-limit scenarios under 2026 stress DSR rules, available in CSV/JSON with methodology and DOI archive.
 For data scientists looking to train machine learning models or analyze macro-economic housing trends.
 
 * [US Census Bureau API](https://www.census.gov/data/developers/guidance/api-user-guide.html) - The ultimate source for demographic, economic, and housing market data.
